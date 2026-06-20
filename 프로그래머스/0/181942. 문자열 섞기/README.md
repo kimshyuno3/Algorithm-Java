@@ -36,7 +36,7 @@
 </ul></li>
 </ul>
 
-<hr>
+<hr>String "": 문자열을 더할 때마다 메모리에 새로운 문자열을 계속 만들어냄 ➡️ 느리고 메모리 낭비 심함. StringBuilder: 하나의 바구니에 문자열을 계속 이어 붙임 ➡️ 빠르고 효율적임. solution 함수의 반환 타입은 String으로 지정되어 있습니다. 하지만 현재 코드는 값을 반환(return)하지 않고 콘솔에 출력(System.out.print)만 한 채 종료되고 있습니다.
 
 <h5>입출력 예</h5>
 <table class="table">
