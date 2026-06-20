@@ -27,6 +27,6 @@
 <p>출력 예시</p>
 <div class="highlight"><pre class="codehilite"><code>!@#$%^&amp;*(\'"&lt;&gt;?:;
 </code></pre></div>
-: Java에서 여러 글자로 이루어진 문자열은 작은따옴표(')가 아닌 큰따옴표(")로 감싸야 합니다. 작은따옴표는 단 한 글자(char)만 담을 수 있습니다.
+<p>Java에서 여러 글자로 이루어진 문자열은 작은따옴표(')가 아닌 큰따옴표(")로 감싸야 합니다. 작은따옴표는 단 한 글자(char)만 담을 수 있습니다.</p>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
